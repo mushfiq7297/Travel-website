@@ -9,7 +9,55 @@
     
     }
 
+/* navbar styles */
+.header-container {
+    margin-top: 50px;
+}
 
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid red; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-left {
+    display: flex;
+    align-items: start;
+    gap: 16px;
+    font-family: Mulish;
+    font-size: 21px;
+    font-weight: 800;
+   
+}
+.nav-right{
+    
+}
+.nav-right >.menuebar1{
+    display: none;
+    
+}
+.nav-right>.menuebar2
+{
+    display: flex;
+    margin-left: 100px;
+}
+
+.orange {
+    color: #FF5400;
+}
+
+
+/* .nav-container a {
+    text-decoration: none;
+    color: #424247;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 18px;
+    font-weight: 400;
+    padding-right: 40px;
+} */
 
 
 
@@ -133,6 +181,7 @@
 .popular-tour-right img{
     width: 390px;
     height: 280px;
+   
 }
 
 

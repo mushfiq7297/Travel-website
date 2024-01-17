@@ -56,7 +56,13 @@
     /* border: 2px solid red; */
     align-items: center;
 }
-
+.nav-right >.menuebar2{
+    display: none;
+}
+.nav-right
+{
+    display: flex;
+}
 .nav-left {
     display: flex;
     align-items: center;
@@ -79,6 +85,9 @@
     font-weight: 400;
     padding-right: 40px;
 }
+
+
+
 
 /* banner styles */
 .banner-container {
