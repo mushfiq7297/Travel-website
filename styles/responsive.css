@@ -262,7 +262,7 @@
 }
 
 .part-1 {
-    background-image: url("/Images/Group\ 39.png");
+    background-image: url("../Images/Group\ 39.png");
     background-repeat: no-repeat;
     display: block;
     height: 500px;
@@ -305,7 +305,7 @@
 }
 
 .part-2 {
-    background-image: url("/Images/Group\ 40.png");
+    background-image: url("../Images/Group\ 40.png");
     background-repeat: no-repeat;
     display: block;
     height: 500px;
@@ -324,7 +324,7 @@
 
 
 .part-3 {
-    background-image: url("/Images/Group\ 39.png");
+    background-image: url("../Images/Group\ 39.png");
     background-repeat: no-repeat;
     display: block;
     height: 500px;

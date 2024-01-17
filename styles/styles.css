@@ -92,7 +92,7 @@
 /* banner styles */
 .banner-container {
     margin-top: 50px;
-    background-image: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url("./Images/Group\ 13\ \(1\)\ \(1\).png");
+    background-image: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url("../Images/Group\ 13\ \(1\)\ \(1\).png");
     border-radius: 16px;
     object-fit: cover;
     background-repeat: no-repeat;
@@ -363,7 +363,7 @@
 }
 
 .part-1 {
-    background-image: url("./Images/Group\ 39.png");
+    background-image: url("../Images/Group\ 39.png");
     background-repeat: no-repeat;
     display: block;
     height: 500px;
@@ -407,7 +407,7 @@
 }
 
 .part-2 {
-    background-image: url("./Images/Group\ 40.png");
+    background-image: url("../Images/Group\ 40.png");
     background-repeat: no-repeat;
     display: block;
     height: 500px;
@@ -430,7 +430,7 @@
 
 
 .part-3 {
-    background-image: url("./Images/Group\ 39.png");
+    background-image: url("../Images/Group\ 39.png");
     background-repeat: no-repeat;
     display: block;
     height: 500px;
